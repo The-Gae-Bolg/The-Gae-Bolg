@@ -18,8 +18,8 @@ Soy un **desarrollador front-end web** con más de 4 años de experiencia profes
 
 ## 📫 Conéctate conmigo
 
-- **Correo:** [juan.pablo@example.com](mailto:juan.pablo@example.com) *(Reemplaza con tu correo real si deseas incluirlo)*
-- **LinkedIn:** [linkedin.com/in/juan-pablo-rb](#) *(Reemplaza con tu enlace real si tienes uno)*
+- **Correo:** [juanlive12@gmail.com](mailto:juanlive12@gmail.com) *(Reemplaza con tu correo real si deseas incluirlo)*
+- **LinkedIn:** [linkedin.com/in/juan-pablo-rb](www.linkedin.com/in/juan-pablo-rodriguez-barajas) *(Reemplaza con tu enlace real si tienes uno)*
 
 ---
 
