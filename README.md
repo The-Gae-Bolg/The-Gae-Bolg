@@ -1,19 +1,19 @@
 <div align="center">
-  <h1>👋 Hi, I'm Juan Pablo Rodriguez Barajas</h1>
-  <p><strong>Front-end Web Developer</strong> | 4+ Years of Experience</p>
+  <h1 style="font-size: 2.5rem; color: #FFFFFF;">👋 Hi, I'm <span style="color: #4FC3F7;">Juan Pablo Rodriguez Barajas</span></h1>
+  <p style="font-size: 1.3rem; font-weight: bold; color: #E0E0E0;">Front-end Web Developer | 4+ Years of Experience</p>
 </div>
 
-<hr />
+<hr style="border: 1px solid #B0BEC5;" />
 
 <div align="center">
-  <p>
-    I'm a <strong>front-end web developer</strong> with over 4 years of experience crafting modern, functional, and responsive web applications. Currently, I’m part of the <strong>KIUBIX</strong> team, where I contribute to the design and development of innovative digital solutions.
+  <p style="font-size: 1.1rem; line-height: 1.8; color: #ECEFF1;">
+    I'm a <strong style="color: #4FC3F7;">front-end web developer</strong> with over 4 years of experience crafting modern, functional, and responsive web applications. Currently, I’m part of the <strong style="color: #FFAB91;">KIUBIX</strong> team, where I contribute to the design and development of innovative digital solutions.
   </p>
 </div>
 
 <div style="margin: 20px 0;">
-  <h2>🌟 My Work at KIUBIX</h2>
-  <ul>
+  <h2 style="color: #FFFFFF; border-bottom: 2px solid #B0BEC5; padding-bottom: 5px;">🌟 My Work at KIUBIX</h2>
+  <ul style="font-size: 1.1rem; color: #CFD8DC; line-height: 1.8;">
     <li>
       Specialized in creating e-learning tools for platforms like Kernit and Moodle, working extensively with the SCORM 1.2 standard.
     </li>
@@ -24,8 +24,8 @@
 </div>
 
 <div style="margin: 20px 0;">
-  <h2>💼 Other Projects</h2>
-  <ul>
+  <h2 style="color: #FFFFFF; border-bottom: 2px solid #B0BEC5; padding-bottom: 5px;">💼 Other Projects</h2>
+  <ul style="font-size: 1.1rem; color: #CFD8DC; line-height: 1.8;">
     <li>
       Built WordPress sites featuring landing pages, image galleries, online stores, and pre-sale ticket systems.
     </li>
@@ -42,7 +42,7 @@
 </div>
 
 <div style="margin: 20px 0;">
-  <h2>🛠️ Technologies & Tools</h2>
+  <h2 style="color: #FFFFFF; border-bottom: 2px solid #B0BEC5; padding-bottom: 5px;">🛠️ Technologies & Tools</h2>
   <p>
     <img src="https://img.shields.io/badge/WHMCS-00A3E0?style=for-the-badge&logo=whmcs&logoColor=white" alt="WHMCS" />
     <img src="https://img.shields.io/badge/SCORM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCORM" />
@@ -69,7 +69,7 @@
 </div>
 
 <div style="margin: 20px 0;">
-  <h2>📊 GitHub Stats</h2>
+  <h2 style="color: #FFFFFF; border-bottom: 2px solid #B0BEC5; padding-bottom: 5px;">📊 GitHub Stats</h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=the-gae-bolg&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-gae-bolg&layout=compact&theme=radical" alt="Top Languages" />
@@ -77,24 +77,24 @@
 </div>
 
 <div style="margin: 20px 0;">
-  <h2>🌟 About Me</h2>
-  <ul>
+  <h2 style="color: #FFFFFF; border-bottom: 2px solid #B0BEC5; padding-bottom: 5px;">🌟 About Me</h2>
+  <ul style="font-size: 1.1rem; color: #CFD8DC; line-height: 1.8;">
     <li>🎯 I specialize in creating fast, responsive, and accessible user interfaces.</li>
     <li>💼 My experience includes working on challenging projects that require attention to detail and a user-centered approach.</li>
-    <li>🌐 Explore my portfolio: <a href="https://juan-pablo-rb-portfolio.netlify.app" target="_blank">juan-pablo-rb-portfolio.netlify.app</a></li>
+    <li>🌐 Explore my portfolio: <a href="https://juan-pablo-rb-portfolio.netlify.app" target="_blank" style="color: #4FC3F7; text-decoration: underline;">juan-pablo-rb-portfolio.netlify.app</a></li>
   </ul>
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <h2>📫 Connect with Me</h2>
-  <p>
-    <strong>Email:</strong> <a href="mailto:juanlive12@gmail.com">juanlive12@gmail.com</a><br />
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-pablo-rodriguez-barajas" target="_blank">linkedin.com/in/juan-pablo-rodriguez-barajas</a>
+  <h2 style="color: #FFFFFF; border-bottom: 2px solid #B0BEC5; padding-bottom: 5px;">📫 Connect with Me</h2>
+  <p style="font-size: 1.2rem; color: #ECEFF1;">
+    <strong>Email:</strong> <a href="mailto:juanlive12@gmail.com" style="color: #4FC3F7;">juanlive12@gmail.com</a><br />
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-pablo-rodriguez-barajas" target="_blank" style="color: #4FC3F7;">linkedin.com/in/juan-pablo-rodriguez-barajas</a>
   </p>
 </div>
 
-<hr />
+<hr style="border: 1px solid #B0BEC5;" />
 
 <div align="center">
-  <p>🚀 Thank you for visiting my profile! I am open to collaborating on exciting projects and connecting with other professionals in the field.</p>
+  <p style="font-size: 1.2rem; color: #CFD8DC;">🚀 Thank you for visiting my profile! I am open to collaborating on exciting projects and connecting with other professionals in the field.</p>
 </div>
