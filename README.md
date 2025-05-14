@@ -4,17 +4,9 @@ I'm a **front-end web developer** with over 4 years of experience crafting moder
 
 At **KIUBIX**, I’ve specialized in creating e-learning tools for platforms like Kernit and Moodle, working extensively with the SCORM 1.2 standard. One of my most impactful contributions has been leading the development of a custom system for interactive slides using SVG and JavaScript. This solution not only improved user engagement but also resolved compatibility issues in Safari, helping the company expand its reach.
 
-Beyond e-learning, I’ve tackled a wide range of web projects. I’ve built WordPress sites featuring landing pages, galleries, online stores, and pre-sale ticket systems. I also led the development of internal platforms using Laravel 10+ and Vite, managing everything from payment integration and user authentication to cron jobs, email dispatch, and real-time alerts via webhooks—all with a strong focus on responsive design.
+Beyond e-learning, I’ve worked on a diverse range of web projects. I’ve built WordPress sites featuring landing pages, image galleries, online stores, and pre-sale ticket systems. I also led the development of internal tools and admin panels using Laravel 10+ and Vite, managing everything from payment integration, user authentication, cron jobs, and email delivery, to real-time alerts via webhooks—always with a focus on delivering fast and responsive experiences.
 
-## 🚀 Technologies and Tools
-
-- **Frameworks and Libraries:** Vue.js, React, jQuery
-- **Styling:** Tailwind CSS, CSS3
-- **Languages:** TypeScript, JavaScript, PHP, C++, HTML
-- **Static Site Generators:** Astro.js
-- **Back-end:** Laravel, Node.js
-- **CMS:** WordPress, Drupal
-- **Other Tools:** Unity
+In addition to my work at **KIUBIX**, I’ve developed custom Visual Studio Code extensions that streamline my workflow—particularly for tasks involving the integration of WHMCS and the automation of repetitive processes. I'm also experienced in the design and use of MCP (Model Context Protocol) servers, where I've implemented context-driven communication layers between front-end applications and backend services, allowing for flexible and scalable system interactions.
 
 ## 🌟 About Me
 
