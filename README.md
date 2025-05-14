@@ -9,6 +9,7 @@ Soy un **desarrollador front-end web** con más de 4 años de experiencia profes
 - **Lenguajes:** TypeScript
 - **Frameworks de Generación Estática:** Astro.js
 - **Back-end:** Laravel
+- **CMS:** Wordpress, Drupal
 
 ## 🌟 Sobre mí
 
